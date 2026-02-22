@@ -1,7 +1,7 @@
 # Number Guessing Game
 # Author: Mohit Sai
 # Description: A simple game where you try to guess the number chosen by the computer.
-
+#2026-02-22
 import random  
 
 print("Welcome to the Number Guessing Game!")
@@ -33,3 +33,4 @@ while True:
         break  # End the loop once guessed correctly
 
 print("Thanks for playing!")
+
