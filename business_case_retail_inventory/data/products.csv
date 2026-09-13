@@ -1,0 +1,13 @@
+sku,name,category,unit_cost,unit_price,units_sold,stock_on_hand,reorder_point,target_stock
+BEV-101,Ground Coffee 12 oz,Beverages,7.20,13.99,145,18,25,90
+BEV-102,Green Tea 40 ct,Beverages,3.10,7.49,98,110,20,80
+BEV-103,Sparkling Water 12 pk,Beverages,4.80,9.99,176,42,35,120
+SNK-201,Trail Mix 16 oz,Snacks,5.50,10.99,112,14,20,75
+SNK-202,Protein Bars 6 ct,Snacks,4.40,9.49,132,32,25,100
+SNK-203,Potato Chips 8 oz,Snacks,1.90,4.29,84,125,30,90
+HOM-301,Laundry Detergent 64 oz,Home,8.75,17.99,73,12,15,60
+HOM-302,Paper Towels 6 roll,Home,6.40,12.99,105,27,30,85
+HOM-303,Dish Soap 24 oz,Home,2.15,5.49,66,92,20,70
+PER-401,Shampoo 12 oz,Personal Care,4.60,10.99,91,16,18,70
+PER-402,Toothpaste 4 oz,Personal Care,1.85,4.99,118,55,25,100
+PER-403,Hand Lotion 8 oz,Personal Care,3.80,8.99,57,108,20,75

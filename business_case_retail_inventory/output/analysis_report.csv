@@ -1,0 +1,13 @@
+sku,name,category,units_sold,stock_on_hand,revenue,gross_profit,inventory_value,stock_status,reorder_quantity
+BEV-101,Ground Coffee 12 oz,Beverages,145,18,2028.55,984.55,129.60,Reorder,72
+BEV-103,Sparkling Water 12 pk,Beverages,176,42,1758.24,913.44,201.60,Healthy,0
+HOM-302,Paper Towels 6 roll,Home,105,27,1363.95,691.95,172.80,Reorder,58
+HOM-301,Laundry Detergent 64 oz,Home,73,12,1313.27,674.52,105.00,Reorder,48
+SNK-202,Protein Bars 6 ct,Snacks,132,32,1252.68,671.88,140.80,Healthy,0
+SNK-201,Trail Mix 16 oz,Snacks,112,14,1230.88,614.88,77.00,Reorder,61
+PER-401,Shampoo 12 oz,Personal Care,91,16,1000.09,581.49,73.60,Reorder,54
+BEV-102,Green Tea 40 ct,Beverages,98,110,734.02,430.22,341.00,Overstocked,0
+PER-402,Toothpaste 4 oz,Personal Care,118,55,588.82,370.52,101.75,Healthy,0
+PER-403,Hand Lotion 8 oz,Personal Care,57,108,512.43,295.83,410.40,Overstocked,0
+HOM-303,Dish Soap 24 oz,Home,66,92,362.34,220.44,197.80,Overstocked,0
+SNK-203,Potato Chips 8 oz,Snacks,84,125,360.36,200.76,237.50,Overstocked,0
